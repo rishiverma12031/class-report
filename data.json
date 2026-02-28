@@ -1,0 +1,62 @@
+{
+  "className": "Grade 10 - Section A",
+  "academicYear": "2024-2025",
+  "subjects": ["Math", "Science", "English", "History", "Computer"],
+  "students": [
+    {
+      "id": "S001",
+      "name": "Aarav Sharma",
+      "marks": {
+        "Math": 78,
+        "Science": 85,
+        "English": 74,
+        "History": 69,
+        "Computer": 92
+      }
+    },
+    {
+      "id": "S002",
+      "name": "Isha Verma",
+      "marks": {
+        "Math": 91,
+        "Science": 88,
+        "English": 90,
+        "History": 84,
+        "Computer": 95
+      }
+    },
+    {
+      "id": "S003",
+      "name": "Rahul Mehta",
+      "marks": {
+        "Math": 56,
+        "Science": 61,
+        "English": 58,
+        "History": 63,
+        "Computer": 70
+      }
+    },
+    {
+      "id": "S004",
+      "name": "Neha Gupta",
+      "marks": {
+        "Math": 42,
+        "Science": 39,
+        "English": 51,
+        "History": 47,
+        "Computer": 55
+      }
+    },
+    {
+      "id": "S005",
+      "name": "Karan Singh",
+      "marks": {
+        "Math": 88,
+        "Science": 79,
+        "English": 83,
+        "History": 76,
+        "Computer": 89
+      }
+    }
+  ]
+}
